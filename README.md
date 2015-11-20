@@ -22,3 +22,13 @@ pip install pytest-tblineinfo
 
 Simply call py.test with `--tb=line` once the plugin is installed,  and the
 end report of *py.test* will prefix the errors with the test name.
+
+# Contributing
+
+Sources are available either on bitbucket (mercurial repo) or github (git
+repo):
+
+- https://github.com/matclab/pytest-tblineinfo
+- https://bitbucket.org/matclab/pytest-tblineinfo
+
+Pull request are welcomed !
