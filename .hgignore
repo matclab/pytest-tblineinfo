@@ -1,0 +1,16 @@
+syntax: glob
+*.egg-info
+*~
+*.log
+*.bak
+*.save
+*.orig
+.*.swp
+.*.swo
+.cache
+~*
+*.out
+*.pyc
+dist/*
+*.zip
+
