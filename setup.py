@@ -8,7 +8,7 @@ import codecs
 
 setup(
     name="pytest-tblineinfo",
-    version = "0.3",
+    version = "0.4",
     description = (
         'tblineinfo is a py.test plugin that insert the node id in the final '
         'py.test report when --tb=line option is used'
